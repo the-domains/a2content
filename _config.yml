@@ -1,7 +1,7 @@
 name: A2Content
 favicon: null
-layout_spectrum: 0.49195818533189595
-typography_spectrum: 0.4726785614620894
+layout_spectrum: 0
+typography_spectrum: 0.86667
 cta:
   domain: null
   bucket: null
